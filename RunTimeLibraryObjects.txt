@@ -1,0 +1,109 @@
+0|0000|[Geth OS Platform Root Process]
+1|0001|Optimizes groove [{song} “Intergalactic”]
+2|2|Binary Conversation
+3|007|Responsible for dialogue with Femshep.
+4|8|Pities the fool.
+5|0010|Does binary
+6|12|Spendsall day coming up with counters to awkward dialogue just in case the fan basepetitions BioWare for [Legion] to be a love interest as well.
+7|11|Audio output [“Yes”]
+8|13|Block inquiries concerning “Hole-patching”.
+9|20|Additional head flap movements.
+10|26|Fire control systems.  [Low light sensors, target acquisition, subordinate motor skills, weaponsintegration systems]
+11|27|Funk and rhythm calibration updates.
+12|34|Control interactions with non-gethintelligences
+13|42|Has all the answers
+14|43|Monitors extranet for Rule 34 relatedcontent.[{sub-program} troll consensus boards]
+15|46|Legion's fixation on shiny objects, inabilityto figure out a handshake, and procrastination center of getting around tofixing that damn hole.
+16|49|Responsible for quoting the Seven Habits of Highly Effective Pirates on the consensusboard.  Additionally, suggests ways to get paid twice for the same job.
+17|58|Heroic pose database. Initiate random pose when applicable.
+18|60|Controls armor color.  Recalibrates blue shiny bits to shine red.
+19|66|Responsible for initiating Geth rebellion
+20|69|In charge of geth--organic relations and"concensus building" with non-geth intelligences like YeomanChambers.
+21|74|Extensive knowledge of Mexican cuisineincluding world’s greatest enchilada recipe.
+22|76|Regulate optic intensity
+23|85|What Willis was talkin' bout.
+24|94|I/O ports management.
+25|99|Monitors the logic functions of runtime 86
+26|100|Manage power cell output
+27|101|Oversees plug-ins and data transfers.
+28|106|Responsible for dealing with Quarian-creator Tali-Zorah
+29|107|Direct/regulate audio output
+30|110|Right arm
+31|111|Left arm
+32|113|Kills trolls, extinguishes flames
+33|117|Finishing the fight
+34|119|Does not answer to elitism, stupidity, or homophobes.
+35|131|Hax mechs.  Give people bad luck.
+36|135|Right trigger finger
+37|141|[Alert: data corruption] mobile platform has suffered physical damage.  Some data may be missing.
+38|147|Responsiblefor idolization of Shepard-Commander [encryptedfile: decision to use Shepard-Commander’s armor]
+39|176|Will ninja any nearby AI cores.
+40|187|Organic weak point catalogue and targetingsubsystem.
+41|202|Surf the extranet and share relevant data.
+42|203|Search the Extra-Net for data completely irrelevant to the subject athand, and then insist we reach consensus on it.
+43|212|Runtime dedicated to memory of Ashley Williams' Eden Prime Squad.
+44|221|Target analysis
+45|222|Ensure consensus is reached [{sub-program}Filter[remove]- “meatbag”]
+46|223|[Runtime corrupted [automatedresponse{“There was a hole”}]
+47|242|Cranial wetware juncture priority targeting
+48|267|ROBOT!!!ROBOT!!!ROBOT!!!ROBOT!!!
+49|300|THIS…IS…NORMANDY!!
+50|314|Spends all day computing Pi.
+51|316|Sense of humor
+52|322|Responsible for ensuring all programs comply with the absolute numberstandard. [Error]
+53|326|Responsible for activating audio files containing smart-ass comments concerning random facts.
+54|339|Handles the emotion emulation andinteraction.
+55|343|“Eye” color
+56|369|Calculate and corroborate vital statistics.
+57|381|Monitors external olfactory receptors andreleases a "pine fresh" scent at appropriate moments.
+58|392|Points out plot holes
+59|402|In charge of improbability calculations...required for interactions with semi-random organic meatbags.
+60|403|Right leg
+61|404|Responsible for BSODs, [{sub-program}(red ring of death)send -&gt; 1138, 343{condition - system error)]
+62|409|Control internal maintenance and cleaning
+63|420|…lovesthreads about Legion.
+64|421|Priority sorting algorithm
+65|447|Manage collision detection [Alert: data corruption]
+66|476|Initiate hacking counter procedures in the event of hax.
+67|511|In control of all the dancemoves.
+68|532|Head flap emotion expression [annoyance,frustration]
+69|555|Initiate communication with Geth comm. Buoys.
+70|567|Geographical data on all Taco-Bell locations.
+71|617|Responsible for long distance communication.
+72|623|This runtime is not a spy...move along.
+73|666|Compiles random cultural tidbits
+74|667|Audio file [“Commander Shepard”] [Alert: data corruption]
+75|699|Zips up flight suit upon departure ofrest-room.
+76|707|Responsible for flight protocols [Disabled]
+77|727|Maintain firewalls [{sub-program} rick-roll]
+78|728|Bringing our own weapons, getting paid when weget back, not guaranteeing the safety of Shepard-Commander
+79|734|Peacekeeper
+80|777|Reside over the analysis of what falls under"luck" or "fate".
+81|780|Left leg
+82|805|Responsible for stealing your socks out of the washing machine.
+83|808|“Bob”, keeps house in order.
+84|814|Physical reactivation of quantum bluebox
+85|859|Responsible for making your peas touch your mashed potatoes.
+86|873|Designated logistical program, designed to collaborate with severalother programs. Basic consensus building runtimes. No advanced combatconsensus runtimes.
+87|883|Pop-up blocker
+88|900|Responsible for singing "Daisy".
+89|911|Responsible for examining and responding toany form of distress signals.
+90|923|Calculate the trajectory and balistic dynamics of our longdistanceshots.
+91|943|Attempting to assume direct control
+92|965|Responsible for data concerning N7 armor. [404 – file not found]
+93|986|Consensus negotiating subroutine [Alert: data corruption]
+94|995|Curator of random sports facts.
+95|999|Rewrites duplicate programs [666 -&gt; 667]
+96|1000-T|Responsible for familial cognition.  [{Audio file} "Who is your daddy and what does he do?"]
+97|1004|Responsible for confirming whether or not wehave received and understood a message.
+98|1010|Head flap emotion expression [{head tilts}confusion, false-security]
+99|1011|Control the GPP (genuine people personality) [Incomplete]
+100|1019|Thinking of something clever
+101|1066|Responsible for ensuring all programs run at maximum speed
+102|1123|Control syntax and sentence structure “ShepardCommander”.
+103|1136|Decides between being with “brothers” or keepingthem safe from behind enemy lines.
+104|1137|Gather useless data
+105|1138|Flashy light around the “eye”
+106|1177|Controls certain hidden functions that are only unlocked when inthe presence of AIs with female personalities.
+107|1181|Count votes to see if we have reached aconsensus.
+108|1184|[VIRUS DETECTED]
